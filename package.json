@@ -1,0 +1,23 @@
+{
+  "name": "deptry",
+  "version": "0.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": {
+    "name": "Ján Neščivera",
+    "email": "jan.nescivera@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yohny/deptry.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yohny/deptry/issues"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "engines": {
+    "node": "^4"
+  }
+}
