@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "test": "mocha --reporter spec"
   },
   "author": {
     "name": "Ján Neščivera",
@@ -19,5 +20,8 @@
   "license": "SEE LICENSE IN LICENSE",
   "engines": {
     "node": "4.1.x"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.3"
   }
 }
