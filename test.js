@@ -6,6 +6,6 @@ describe('add', function() {
   });
 
   it('should be correct sum 2', function() {
-    assert.equal(3, 2 + 3);
+    assert.equal(5, 2 + 3);
   });
 });
