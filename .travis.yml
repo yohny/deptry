@@ -2,6 +2,6 @@ sudo: false
 language: node_js
 node_js:
   - "4.1"
-  deploy:
-    provider: azure_web_apps
-    verbose: true
+deploy:
+  provider: azure_web_apps
+  verbose: true
